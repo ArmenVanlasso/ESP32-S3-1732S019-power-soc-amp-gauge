@@ -5,4 +5,4 @@ Górny łuk zawiera 10 sekcji, które odpowiednio się kolorują
 Środkowy pasek i dolny łuk jak wyżej.
 Dodatkowo zrobiłem ikony, które pokazują się, gdy bms odetnie zasilanie, gdy minimalne ustawione napięcie na którejś celi spadnie poniżej zadanej wartości, oraz drugą, gdy bms odetnie zasilanie jak pobór mocy będzie większy niż ustalony
 
-![Opis alternatywny]([link_do_twojego_pliku.png](https://github.com/ArmenVanlasso/ESP32-S3-1732S019-power-soc-amp-gauge/blob/main/gauge.png))
+(https://github.com/ArmenVanlasso/ESP32-S3-1732S019-power-soc-amp-gauge/blob/main/gauge.png)
